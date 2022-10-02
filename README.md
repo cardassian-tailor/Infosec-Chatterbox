@@ -3,6 +3,6 @@ Collection of Infosec Communities
 
 
 ### Hak5
-[__CyberSecLabs Lounge__](https://discord.com/invite/vy75f7W)
+[__Hak5__](https://discord.gg/3NEpe65yqY)
 Notable Channels:  `#test-channel`,\
 Language: English
