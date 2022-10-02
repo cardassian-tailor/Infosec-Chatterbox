@@ -2,6 +2,6 @@
 Collection of Infosec Communities
 
 
-
-Notable Channels: `#golang`, `#test-channel`,\
+## Hak5
+Notable Channels:  `#test-channel`,\
 Language: English
