@@ -1,5 +1,5 @@
 # Infosec-Chatterbox
-Collection of Infosec Watering Holes
+Collection of Infosec Discord Servers
 
 
 [__Hak5__](https://discord.gg/3NEpe65yqY) <br>
